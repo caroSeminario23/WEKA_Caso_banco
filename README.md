@@ -1,4 +1,5 @@
 # *Suscripción a un depósito a largo plazo*
+![Minería de datos](https://img.shields.io/badge/Minería%20de%20Datos-38BCAC)
 
 ## 1. Descripción del proyecto
 Este proyecto consiste en aprender a usar WEKA mediante la realización de un caso práctico, en este caso, a través del procesamiento de un dataset que presenta información acerca de las características (personales y sobre comportamiento financiero) de sus clientes. Lo que se busca es **realizar lo siguiente:**
